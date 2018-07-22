@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Productivus</string>
+    <string name="start_new_timer">Start Timer</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="start_toast">Timer Started</string>
+    <string name="stop_toast">Timer Stopped</string>
+</resources>
